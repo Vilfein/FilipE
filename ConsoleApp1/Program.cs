@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Ahoj Fílo!");
+            // Takhle funguje
+            // Git přes CMD
         }
     }
 }
